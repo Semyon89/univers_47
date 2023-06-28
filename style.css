@@ -1,0 +1,21 @@
+h1{
+    color: red;
+}
+
+
+.item_price{
+    background-color: blue;
+    color: orange;
+    margin-top: 100px;
+}
+
+.description{
+    font-size: 50px;
+}
+
+p{
+    text-align: center;
+    font-style: oblique;
+    text-shadow:green 2px 3px 4px;
+    font-size: 24px;
+}
